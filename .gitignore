@@ -60,5 +60,8 @@ target/
 # Debugging
 *.stackdump
 
-#Virtualenv
+# Virtualenv
 venv/
+
+# Environment Vars
+.env
